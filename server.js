@@ -45,6 +45,6 @@ var ADD=[]
 //   res.send('<h1>Hello world</h1>');
 // });
 
-server.listen(35000, () => {
+server.listen(3500, () => {
   console.log('server running at http://localhost:3500');
 });
